@@ -1,5 +1,6 @@
 # about-me
 
+# Personal Website http://camcreates.co/
 
 ## Before GA I was a personal trainer and I was going through the hiring process with Lakewood Police Department.
 
@@ -9,4 +10,9 @@
 
 ## (1) I was born and raised in Southern California. (2) I have a parrot named quincy. (3) I have a car but haven't driven it in 4 months, because walking is life.
 
-## LinkedIn profile (https://www.linkedin.com/in/cameron-barclay-45197912a/)
+## LinkedIn profile https://www.linkedin.com/in/cameron-barclay-45197912a/
+
+## I would like to work for an agency, possibly a startup.
+
+## I have decided to lean towards a frontend dev. job. I enjoy css(bootstrap, sass and other frameworks). I would also like to further my education with JS (Angular 2 and React).
+
